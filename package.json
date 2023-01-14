@@ -1,0 +1,12 @@
+{
+  "name": "pnpm-mono",
+  "version": "1.0.0",
+  "description": "풀스택 모노레포 프로젝트 입니다.",
+  "main": "index.js",
+  "scripts": {
+    "frontend": "pnpm --filter @demo/frontend"
+  },
+  "keywords": [],
+  "author": "wslp12@github.com",
+  "license": "ISC"
+}

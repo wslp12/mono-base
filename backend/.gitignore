@@ -1,0 +1,5 @@
+# 패키지 저장소 
+node_modules
+
+# 배포 폴더
+dist

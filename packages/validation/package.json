@@ -1,0 +1,15 @@
+{
+    "name": "validation",
+    "version": "1.0.0",
+    "description": "유효성 검증 유틸 프로젝트입니다.",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc --incremental"
+    },
+    "keywords": [],
+    "author": "wslp12@github.com",
+    "license": "ISC",
+    "devDependencies": {
+        "typescript": "^4.9.3"
+    }
+}
